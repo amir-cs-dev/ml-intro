@@ -35,16 +35,3 @@ cd ml-intro
 pip install -r requirements.txt
 python ml_intro.py
 ---
-
-## 📊 Results
-
-Below is the generated output from **ml_intro.py**, showing the linear regression model predicting student scores based on study hours — all visualized in the custom **Commander Labs Dark Mode** theme.
-
-<p align="center">
-  <img src="results/linear_regression_output.png" alt="Linear Regression Output" width="600">
-</p>
-
-**Prediction Example:**  
-When a student studies **7 hours**, the model predicts a score of approximately **87.3**.
-
----
