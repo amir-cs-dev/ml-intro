@@ -27,16 +27,6 @@ This notebook predicts student scores based on study hours — visualized in a *
 | IDE | VS Code |
 
 ---
-
-### 📦 Installation
-```bash
-git clone https://github.com/amir-cs-dev/ml-intro.git
-cd ml-intro
-pip install -r requirements.txt
-python ml_intro.py
----
----
-
 ## 📊 Results
 
 Below is the generated output from **ml_intro.py**, showing the linear regression model predicting student scores based on study hours — visualized in the **Commander Labs Dark Mode** theme.
@@ -48,4 +38,13 @@ Below is the generated output from **ml_intro.py**, showing the linear regressio
 **Prediction Example:**  
 When a student studies **7 hours**, the model predicts a score of approximately **87.3**.
 
+---
+
+### 📦 Installation
+```bash
+git clone https://github.com/amir-cs-dev/ml-intro.git
+cd ml-intro
+pip install -r requirements.txt
+python ml_intro.py
+---
 ---
